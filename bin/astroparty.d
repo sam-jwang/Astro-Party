@@ -1,0 +1,13 @@
+.\astroparty.o: ..\src\AstroParty.c
+.\astroparty.o: ..\src\AstroParty.h
+.\astroparty.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\astroparty.o: ..\src\GameObjects.h
+.\astroparty.o: ..\src\ST7735.h
+.\astroparty.o: ..\src\PLL.h
+.\astroparty.o: ..\src\InputHardware.h
+.\astroparty.o: ..\src\ADC.h
+.\astroparty.o: ..\src\Sound.h
+.\astroparty.o: ..\src\LCDBuffer.h
+.\astroparty.o: ..\src\Images.h
+.\astroparty.o: ..\src\GamePhysics.h
+.\astroparty.o: ..\src\RandomGenerate.h
